@@ -1,0 +1,20 @@
+.wrapper {
+  margin-top: 45px;
+}
+.person__name {
+  padding: 10px;
+  border-radius: 3px 3px 3px 0;
+  font-size: 18px;
+  font-weight: 600;
+
+  background-image: linear-gradient(to right, rgb(202, 58, 82), purple);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}

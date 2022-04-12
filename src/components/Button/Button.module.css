@@ -1,0 +1,24 @@
+.button {
+  min-width: 100px;
+  padding: 10px 10px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+   color: rgb(184, 52, 74);
+    background-image: linear-gradient(to right, rgb(202, 58, 82), purple);
+   -webkit-background-clip: text;
+   background-clip: text;
+  border-color: rgb(184, 52, 74);
+   -webkit-text-fill-color: transparent;
+   color: transparent;
+  outline: none;
+  transition: 0.4s;
+  cursor: pointer;
+}
+.button:disabled,
+.button:disabled:hover {
+  background-color: transparent;
+  border-color: gray;
+  cursor: auto;
+}

@@ -1,0 +1,14 @@
+.img {
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+.text {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 2px #fff, 0 0 40px #6a83fb;
+}
+
+

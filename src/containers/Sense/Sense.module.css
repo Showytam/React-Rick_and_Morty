@@ -1,0 +1,21 @@
+.home {
+margin: auto;
+width: 600px;
+height: 300px;
+border-radius: 3px;
+}
+
+.text {
+    margin: auto;
+margin-bottom: 20px;
+    width: 800px;
+    color: rgb(232, 185, 29);
+    line-height: 1.7;
+}
+.main_text {
+    margin: auto;
+margin-top: 20px;
+    width: 800px;
+    color: rgb(232, 185, 29);
+    line-height: 1.7;
+}

@@ -1,0 +1,32 @@
+.main_container {
+  height: 450px;
+  max-width: 600px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.window {
+  height: 450px;
+
+  overflow: hidden;
+}
+
+.all_pages_container {
+  height: 100%;
+  display: flex;
+background-size: contain;
+
+  transition: translate;
+  transition-property: transform;
+  transition-duration: 300ms;
+  transition-timing-function: ease-in-out;
+}
+
+.arrow {
+  cursor: pointer;
+  color: rgb(184, 52, 74);
+  width: 20px;
+  height: 20px;
+  margin: 20px;
+}
