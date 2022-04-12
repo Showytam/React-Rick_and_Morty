@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0acae66.css",
-    "main.js": "/static/js/main.d41bf907.js",
-    "static/media/meme2.jpg": "/static/media/meme2.93eed48f7c5fcb472200.jpg",
-    "static/media/meme1.jpg": "/static/media/meme1.41c3c8f9161f5b441c42.jpg",
-    "static/media/not-found2.png": "/static/media/not-found2.a218ca229093de6f08d2.png",
-    "static/media/bg7.jpg": "/static/media/bg7.fe0a4682e4c7f6c973d9.jpg",
-    "static/media/meme6.jpg": "/static/media/meme6.d3436ae55fc595ab8b9a.jpg",
-    "static/media/home.jpg": "/static/media/home.b8fb55253b8fc911cab0.jpg",
-    "static/media/meme4.jpg": "/static/media/meme4.8225244af30ab3c6cf05.jpg",
-    "static/media/error.jpg": "/static/media/error.7c8c1928a5485cf1e372.jpg",
-    "static/media/meme3.jpg": "/static/media/meme3.a7461ae01a74a867a00d.jpg",
-    "static/media/meme5.jpg": "/static/media/meme5.df1eb203dd4fa9f361af.jpg",
-    "static/media/back.png": "/static/media/back.803bd0152d74b0d82ae5.png",
-    "static/media/bookmark.svg": "/static/media/bookmark.69166fa638192475a523dc31d4f25f4b.svg",
-    "static/media/favorite.svg": "/static/media/favorite.0144331a73d94d684d1553cd8958325b.svg",
-    "static/media/favorite-fill.svg": "/static/media/favorite-fill.edf00be9f67ffb06455c9fdc1c286bc8.svg",
-    "index.html": "/index.html",
-    "main.c0acae66.css.map": "/static/css/main.c0acae66.css.map",
-    "main.d41bf907.js.map": "/static/js/main.d41bf907.js.map"
+    "main.css": "/React-Rick_and_Morty/static/css/main.e2abbc51.css",
+    "main.js": "/React-Rick_and_Morty/static/js/main.79c6019f.js",
+    "static/media/meme2.jpg": "/React-Rick_and_Morty/static/media/meme2.93eed48f7c5fcb472200.jpg",
+    "static/media/meme1.jpg": "/React-Rick_and_Morty/static/media/meme1.41c3c8f9161f5b441c42.jpg",
+    "static/media/not-found2.png": "/React-Rick_and_Morty/static/media/not-found2.a218ca229093de6f08d2.png",
+    "static/media/bg7.jpg": "/React-Rick_and_Morty/static/media/bg7.fe0a4682e4c7f6c973d9.jpg",
+    "static/media/meme6.jpg": "/React-Rick_and_Morty/static/media/meme6.d3436ae55fc595ab8b9a.jpg",
+    "static/media/home.jpg": "/React-Rick_and_Morty/static/media/home.b8fb55253b8fc911cab0.jpg",
+    "static/media/meme4.jpg": "/React-Rick_and_Morty/static/media/meme4.8225244af30ab3c6cf05.jpg",
+    "static/media/error.jpg": "/React-Rick_and_Morty/static/media/error.7c8c1928a5485cf1e372.jpg",
+    "static/media/meme3.jpg": "/React-Rick_and_Morty/static/media/meme3.a7461ae01a74a867a00d.jpg",
+    "static/media/meme5.jpg": "/React-Rick_and_Morty/static/media/meme5.df1eb203dd4fa9f361af.jpg",
+    "static/media/back.png": "/React-Rick_and_Morty/static/media/back.803bd0152d74b0d82ae5.png",
+    "static/media/bookmark.svg": "/React-Rick_and_Morty/static/media/bookmark.69166fa638192475a523dc31d4f25f4b.svg",
+    "static/media/favorite.svg": "/React-Rick_and_Morty/static/media/favorite.0144331a73d94d684d1553cd8958325b.svg",
+    "static/media/favorite-fill.svg": "/React-Rick_and_Morty/static/media/favorite-fill.edf00be9f67ffb06455c9fdc1c286bc8.svg",
+    "index.html": "/React-Rick_and_Morty/index.html",
+    "main.e2abbc51.css.map": "/React-Rick_and_Morty/static/css/main.e2abbc51.css.map",
+    "main.79c6019f.js.map": "/React-Rick_and_Morty/static/js/main.79c6019f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0acae66.css",
-    "static/js/main.d41bf907.js"
+    "static/css/main.e2abbc51.css",
+    "static/js/main.79c6019f.js"
   ]
 }
