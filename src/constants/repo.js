@@ -1,1 +1,1 @@
-export const REPO_NAME = 'React-Rick-Morty' 
+export const REPO_NAME = 'React-Rick_and_Morty' 

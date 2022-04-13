@@ -7,7 +7,7 @@ import styles from './App.module.css'
 const App = () => {
   return (
     <>
-      <Router>
+      <Router basename={`/${REPO_NAME}/`}>
         <div className={styles.wrapper}>
           <Header />
           <Routes>
