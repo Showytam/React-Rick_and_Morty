@@ -24,10 +24,11 @@ const PeoplePage = ({ setErrorApi }) => {
   const queryPage = query.get('page')
   const getResponse = async url => {
     const res = await getApiResource(url)
+    console.log(res);
     if (res) {
-      const peopleList = res.results.map(({ name, url }) => {
+      const peopleList = res.results.map(({ name, url, image }) => {
         const id = getPeopleId(url)
-        const img = getPeopleImage(id)
+        const img = image
 
         return {
           id,

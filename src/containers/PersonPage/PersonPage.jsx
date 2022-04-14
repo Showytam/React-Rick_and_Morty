@@ -40,9 +40,10 @@ const PersonPage = ({ setErrorApi }) => {
           { title: 'Species', data: res.species },
           { title: 'Location', data: res.location.name },
           { title: 'Origin', data: res.origin.name },
+          { title: 'Photo', data: res.image }
         ])
         setPersonName(res.name)
-        setPersonPhoto(getPeopleImage(id))
+        setPersonPhoto(res.image)
       }
       setErrorApi(!res)
     })()
