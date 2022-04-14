@@ -30,10 +30,6 @@ export const getApiResource = async url => {
   }
 }
 
-// (async () => {
-// 	const body = await getApiResource('https://swapi.dev/api/planets/1zzz/');
-// 	console.log(body);
-// })();
 
 /**
  * Отправляет несколко запросов Fetch из массива URL

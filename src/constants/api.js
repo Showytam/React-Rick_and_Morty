@@ -12,7 +12,7 @@ export const API_SEARCH = HTTPS + SWAPI_ROOT + SWAPI_PEOPLE + SWAPI_PARAM_SEARCH
 
 //visualguide
 
-const GUIDE_ROOT_IMG = 'https:rickandmortyapi.com/api/'
+const GUIDE_ROOT_IMG = 'https://rickandmortyapi.com/api/'
 const GUIDE_PEOPLE = 'character/avatar'
 export const GUIDE_IMG_EXTENSION = '.jpeg'
 
