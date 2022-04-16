@@ -1,6 +1,5 @@
 {
   "name": "react-star-wars",
-  "homepage": "https://showytam.github.io/React-Rick_and_Morty/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

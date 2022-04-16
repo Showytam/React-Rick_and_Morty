@@ -8,7 +8,6 @@ import PersonPhoto from '@components/PersonPage/PersonPhoto/PersonPhoto'
 import PersonLinkBack from '@components/PersonPage/PersonLinkBack/PersonLinkBack'
 
 import { getApiResource } from '@utils/network'
-import { getPeopleImage } from '@services/getPeopleData'
 import { API_PERSON } from '@constants/api'
 import { withErrorApi } from '@hoc-helpers/withErrorApi'
 
@@ -40,7 +39,6 @@ const PersonPage = ({ setErrorApi }) => {
           { title: 'Species', data: res.species },
           { title: 'Location', data: res.location.name },
           { title: 'Origin', data: res.origin.name },
-          { title: 'Photo', data: res.image }
         ])
         setPersonName(res.name)
         setPersonPhoto(res.image)

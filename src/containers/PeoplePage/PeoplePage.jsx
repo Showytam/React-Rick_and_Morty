@@ -8,7 +8,6 @@ import { useQueryParams } from '@hooks/useQueryParams'
 
 import { getApiResource, changeHTTP } from '@utils/network'
 import {
-  getPeopleImage,
   getPeopleId,
   getPeoplePageId,
 } from '@services/getPeopleData'
