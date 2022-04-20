@@ -30,7 +30,7 @@ const PersonPage = ({ setErrorApi }) => {
       setPersonId(id)
 
       const res = await getApiResource(`${API_PERSON}/${id}/`)
-
+console.log(res.image);
       if (res) {
         setPersonInfo([
           { title: 'Status', data: res.status },
@@ -42,6 +42,7 @@ const PersonPage = ({ setErrorApi }) => {
         ])
         setPersonName(res.name)
         setPersonPhoto(res.image)
+
       }
       setErrorApi(!res)
     })()

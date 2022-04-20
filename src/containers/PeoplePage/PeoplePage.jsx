@@ -1,4 +1,4 @@
-// import PropTypes from 'prop-types'
+
 import { useState, useEffect } from 'react'
 
 import { withErrorApi } from '@hoc-helpers/withErrorApi'
@@ -62,9 +62,5 @@ const PeoplePage = ({ setErrorApi }) => {
     </>
   )
 }
- 
-// PeoplePage.propTypes = {
-//   setErrorApi: PropTypes.func,
-// }
 
 export default withErrorApi(PeoplePage)
